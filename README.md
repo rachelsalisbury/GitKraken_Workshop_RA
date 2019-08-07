@@ -1,4 +1,4 @@
-GitKraken_Workshop_RA
+# GitKraken_Workshop_RA
 
 ## Overview
 Our code will demonstrate the different code snippets that have been used for programming
